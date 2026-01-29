@@ -1,3 +1,20 @@
+
+
+---
+title: AI Data Analyst Agent
+emoji: 📊
+colorFrom: indigo
+colorTo: blue
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
+---
+
+
+
+
 # PROJECT TITLE: AI Data Analyst Agent (CSV-Based Analysis)
 
 **Employee Name:** Gunasaivallu
